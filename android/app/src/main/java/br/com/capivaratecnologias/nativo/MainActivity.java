@@ -1,4 +1,4 @@
-package br.com.capivaratecnologias.nativo;
+package br.com.capivaratecnologia.nativo;
 
 import io.flutter.embedding.android.FlutterActivity;
 
