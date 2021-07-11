@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:394264135270:android:171a96ab85db00cc024fa7",
+        "mobilesdk_app_id": "1:394264135270:android:6c9cdb6e72de887d024fa7",
         "android_client_info": {
           "package_name": "br.com.capivaratecnologia.nativo"
         }
@@ -44,12 +44,20 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:394264135270:android:850f57ea70fa589a024fa7",
+        "mobilesdk_app_id": "1:394264135270:android:06d20965b61218ad024fa7",
         "android_client_info": {
-          "package_name": "br.com.capivaratecnologias.nativo"
+          "package_name": "br.com.capivaratecnologias.suporte_cootraps"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "394264135270-9pj2qko67fth3t3j5imn9gt58f44ef62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.capivaratecnologias.suporte_cootraps",
+            "certificate_hash": "b564db0d8c746d1db59659d008330cf2d729b6a4"
+          }
+        },
         {
           "client_id": "394264135270-k6dnqo0edaprdq3couc9kmsjdp2g03nb.apps.googleusercontent.com",
           "client_type": 3

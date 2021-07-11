@@ -484,7 +484,7 @@ ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transfor
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:9:9-44
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:8:9-63
-permission#br.com.capivaratecnologias.nativo.permission.C2D_MESSAGE
+permission#br.com.capivaratecnologia.nativo.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:7:5-9:47
 	android:protectionLevel
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:9:9-44
@@ -494,7 +494,7 @@ uses-permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:11:22-76
-uses-permission#br.com.capivaratecnologias.nativo.permission.C2D_MESSAGE
+uses-permission#br.com.capivaratecnologia.nativo.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:11:22-76
@@ -600,7 +600,7 @@ intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:$
 ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:54:13-58:29
 	android:priority
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:54:28-50
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:br.com.capivaratecnologias.nativo
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:br.com.capivaratecnologia.nativo
 ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:54:13-58:29
 	android:priority
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:54:28-50
@@ -612,7 +612,7 @@ category#${applicationId}
 ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:57:17-61
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:57:27-58
-category#br.com.capivaratecnologias.nativo
+category#br.com.capivaratecnologia.nativo
 ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:57:17-61
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\6704506d05135b6dd0ffbf2d877b5fee\jetified-OneSignal-4.4.0\AndroidManifest.xml:57:27-58
