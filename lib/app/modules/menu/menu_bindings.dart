@@ -8,6 +8,6 @@ class MenuBindings implements Bindings {
   void dependencies() {
       Get.put(Auth());
     Get.put(ChamadoRepository());
-      Get.put(MenuController(Get.find(),Get.find()));
+      Get.put(MenuController(Get.find()));
   }
 }

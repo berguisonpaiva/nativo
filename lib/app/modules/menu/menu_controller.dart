@@ -4,18 +4,18 @@ import 'package:get/get.dart';
 import 'package:nativo/app/models/user_model.dart';
 import 'package:nativo/app/modules/authenticate/login/login_page.dart';
 import 'package:nativo/app/repositories/auth.dart';
-import 'package:nativo/app/repositories/chamado_repository.dart';
+
 
 class MenuController extends GetxController {
 
-  final ChamadoRepository _chamadoRepository;
+
   final Auth _auth;
 
 
 
  UserModel? user;
   MenuController(
-    this._chamadoRepository,
+    
    this._auth,
  
   );

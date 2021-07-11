@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
-import 'package:nativo/app/modules/splash/splash_page.dart';
+
 import 'package:nativo/app/repositories/auth.dart';
 import 'package:onesignal_flutter/onesignal_flutter.dart';
 
